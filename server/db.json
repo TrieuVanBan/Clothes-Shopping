@@ -1,0 +1,355 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "cateId": 1,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Đen",
+        "Trắng",
+        "Ghi",
+        "Sữa"
+      ],
+      "name": "CHÂN VÁY XÒE ",
+      "image": "https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2401038diwoyl2.jpg",
+      "price": 126000,
+      "discount": "5",
+      "quantity": 1,
+      "description": "Sản phẩm nhập khẩu từ Nhật Bản"
+    },
+    {
+      "id": "2",
+      "cateId": 2,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Đen",
+        "Trắng",
+        "Ghi",
+        "Sữa"
+      ],
+      "name": "ÁO PHÔNG TRẮNG",
+      "image": "https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2401038diwoyl2.jpg",
+      "price": 130000,
+      "discount": "30",
+      "quantity": 1,
+      "description": "Sản phẩm nhập khẩu từ Nhật Bản"
+    },
+    {
+      "id": "3",
+      "cateId": 3,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Đen",
+        "Trắng",
+        "Ghi",
+        "Sữa"
+      ],
+      "name": "ÁO THUN XANH",
+      "image": "https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2401038diwoyl2.jpg",
+      "price": 100000,
+      "discount": "20",
+      "quantity": 1,
+      "description": "Sản phẩm nhập khẩu từ Nhật Bản"
+    },
+    {
+      "id": "4",
+      "cateId": 1,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Đen",
+        "Trắng",
+        "Ghi",
+        "Sữa"
+      ],
+      "name": "ĐẦM TƠ ĐEN",
+      "image": "https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2401038diwoyl2.jpg",
+      "price": 100000,
+      "discount": "20",
+      "quantity": 1,
+      "description": "Sản phẩm nhập khẩu từ Nhật Bản"
+    },
+    {
+      "id": "5",
+      "cateId": 1,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Đen",
+        "Trắng",
+        "Ghi",
+        "Sữa"
+      ],
+      "name": "ÁO TƠ NHŨ KEM",
+      "image": "https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2401038diwoyl2.jpg",
+      "price": 100000,
+      "discount": "20",
+      "quantity": 1,
+      "description": "Sản phẩm nhập khẩu từ Nhật Bản"
+    },
+    {
+      "id": "6",
+      "cateId": 3,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Đen",
+        "Trắng",
+        "Ghi",
+        "Sữa"
+      ],
+      "name": "ĐẦM SỢI XANH BẠC HÀ",
+      "image": "https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2401038diwoyl2.jpg",
+      "price": 100000,
+      "discount": "20",
+      "quantity": 1,
+      "description": "Sản phẩm nhập khẩu từ Nhật Bản"
+    },
+    {
+      "id": "7",
+      "cateId": 2,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Đen",
+        "Trắng",
+        "Ghi",
+        "Sữa"
+      ],
+      "name": "ÁO THUN ĐEN HOẠ TIẾT",
+      "image": "https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2401038diwoyl2.jpg",
+      "price": 100000,
+      "discount": "20",
+      "quantity": 5,
+      "description": "Sản phẩm nhập khẩu từ Nhật Bản"
+    },
+    {
+      "id": "8",
+      "cateId": 3,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Đen",
+        "Trắng",
+        "Ghi",
+        "Sữa"
+      ],
+      "name": "CHÂN VÁY TƠ ĐEN",
+      "image": "https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2401038diwoyl2.jpg",
+      "price": 100000,
+      "discount": "20",
+      "quantity": 1,
+      "description": "Sản phẩm nhập khẩu từ Nhật Bản"
+    },
+    {
+      "id": "9",
+      "cateId": 1,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Đen",
+        "Trắng",
+        "Ghi",
+        "Sữa"
+      ],
+      "name": "ÁO THUN NÂU ĐÍNH ĐÁ",
+      "image": "https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2401038diwoyl2.jpg",
+      "price": 100000,
+      "discount": "20",
+      "quantity": 1,
+      "description": "Sản phẩm nhập khẩu từ Nhật Bản"
+    },
+    {
+      "id": "10",
+      "cateId": 2,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Đen",
+        "Trắng",
+        "Ghi",
+        "Sữa"
+      ],
+      "name": "ÁO THUN ĐEN CỔ TRÒN",
+      "image": "https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2401038diwoyl2.jpg",
+      "price": 100000,
+      "discount": "20",
+      "quantity": 1,
+      "description": "Sản phẩm nhập khẩu từ Nhật Bản"
+    },
+    {
+      "id": "11",
+      "cateId": 4,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Đen",
+        "Trắng",
+        "Ghi",
+        "Sữa"
+      ],
+      "name": "ÁO THUN BE",
+      "image": "https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2401038diwoyl2.jpg",
+      "price": 100000,
+      "discount": "20",
+      "quantity": 1,
+      "description": "Sản phẩm nhập khẩu từ Nhật Bản"
+    },
+    {
+      "id": "12",
+      "cateId": 4,
+      "size": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "color": [
+        "Đen",
+        "Trắng",
+        "Ghi",
+        "Sữa"
+      ],
+      "name": "ÁO THUN DÂY HỒNG",
+      "image": "https://elise.vn/media/catalog/product/cache/b35d2052d2e1ce5f6cbaec523842ed65/f/s/fs2401038diwoyl2.jpg",
+      "price": 100000,
+      "discount": "20",
+      "quantity": 1,
+      "description": "Sản phẩm nhập khẩu từ Nhật Bản"
+    }
+  ],
+  "comments": [
+    {
+      "id": "6d9f",
+      "name": "User Name",
+      "comment": "Sản phẩm chất lượng!",
+      "productId": "3"
+    },
+    {
+      "id": "26cf",
+      "name": "User Name",
+      "comment": "Giao hàng nhanh",
+      "productId": "3"
+    },
+    {
+      "id": "671c",
+      "name": "User Name",
+      "comment": "Đánh giá 5 sao.",
+      "productId": "3"
+    },
+    {
+      "id": "0f1a",
+      "name": "User Name",
+      "comment": "jsafsafffsfsdfsfs",
+      "productId": "3"
+    },
+    {
+      "id": "750c",
+      "name": "User Name",
+      "comment": "dfdsfdfsdfdsfsdfs",
+      "productId": "3"
+    },
+    {
+      "id": "f2bc",
+      "name": "User Name",
+      "comment": "",
+      "productId": "3"
+    },
+    {
+      "id": "a874",
+      "name": "User Name",
+      "comment": "sdfdfdsdfdsf",
+      "productId": "3"
+    },
+    {
+      "id": "4f79",
+      "name": "User Name",
+      "comment": "mmmmmmmmmmmmmmmmmmm",
+      "productId": "3"
+    },
+    {
+      "id": "d67f",
+      "name": "User Name",
+      "comment": "Giao hàng nhanh",
+      "productId": "1"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Áo"
+    },
+    {
+      "id": "2",
+      "name": "Váy"
+    },
+    {
+      "id": "3",
+      "name": "Quần"
+    }
+  ],
+  "carts": [],
+  "users": [
+    {
+      "id": "3185",
+      "email": "ban123@gmail.com",
+      "name": "Ban1234",
+      "phone": "053456352",
+      "password": "123456"
+    },
+    {
+      "id": "700a",
+      "email": "ban@gmail.com",
+      "name": "Ban TV",
+      "phone": "093432235",
+      "password": "123456"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dropdown-menu {
+  position: absolute;
+  top: 0;
+  left: -200px;
+  /* Đẩy dropdown ra bên trái */
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+/* Hiệu ứng khi hiển thị dropdown */
+.dropdown-enter {
+  left: -200px;
+  /* Bắt đầu ẩn dropdown ở vị trí bên trái */
+}
+
+.dropdown-enter-active {
+  left: 0;
+  /* Khi hiển thị, di chuyển dropdown từ bên trái vào vị trí xuất hiện */
+  transition: left 300ms ease-in-out;
+}
+
+/* Hiệu ứng khi ẩn dropdown */
+.dropdown-exit {
+  left: 0;
+  /* Bắt đầu từ vị trí hiện tại */
+}
+
+.dropdown-exit-active {
+  left: -200px;
+  /* Di chuyển dropdown từ vị trí hiện tại về bên trái */
+  transition: left 300ms ease-in-out;
+}
+
+.app {
+  font-style: normal;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  background-color: #ffffff;
+}
+
+::placeholder {
+  font-size: 16px;
+}
