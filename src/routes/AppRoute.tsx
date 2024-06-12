@@ -1,6 +1,6 @@
 import React from 'react'
 import '../index.css';
-import { Route, Routes } from "react-router-dom";
+import { Route, Routes, Switch } from "react-router-dom";
 import LayoutClient from '../layouts/LayoutClient';
 import HomePage from '../pages/client/HomePage';
 import DetailPage from '../pages/client/DetailPage';
@@ -9,10 +9,12 @@ import LoginPage from '../pages/client/LoginPage';
 import RegisterPage from '../pages/client/RegisterPage';
 import FavoritePage from '../pages/client/FavoritePage';
 import PayPage from '../pages/client/PayPage';
+import ScrollToTop from '../components/ScrollTop';
 
 const AppRoute = () => {
   return (
     <div className='app'>
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<LayoutClient />}>
           <Route index element={<HomePage />} />
